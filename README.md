@@ -12,7 +12,7 @@ Uma landing page moderna, elegante e responsiva desenvolvida para clínicas de e
 <div align="center">
 
   <!-- IMAGEM DE PREVIEW -->
-  <img src="assets/images/preview.png" alt="Prévia da Landing Page Clínica de Estética & Saúde" width="100%">
+  <img src="assets/preview (2).png" alt="Prévia da Landing Page Clínica de Estética & Saúde" width="100%">
 
   <br><br>
 
